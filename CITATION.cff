@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite the paper below."
+title: "SDP Transform for MATLAB"
+type: software
+license: BSD-3-Clause
+authors:
+  - family-names: Ditommaso
+    given-names: Rocco
+    affiliation: University of Basilicata
+    orcid: "https://orcid.org/0000-0002-3587-108X"
+  - family-names: Ponzo
+    given-names: Felice Carlo
+    affiliation: University of Basilicata
+version: "1.0.0"
+url: "https://it.mathworks.com/matlabcentral/fileexchange/184677-sdp-transform-stockwell-time-frequency-analysis-on-a-record"
+preferred-citation:
+  type: article
+  title: "Time–frequency representation of nonlinear structural response through rationally sampled Stockwell analysis"
+  authors:
+    - family-names: Ditommaso
+      given-names: Rocco
+    - family-names: Ponzo
+      given-names: Felice Carlo
+  journal: "Mechanical Systems and Signal Processing"
+  volume: 260
+  year: 2026
+  doi: "10.1016/j.ymssp.2026.114920"
